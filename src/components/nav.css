@@ -1,0 +1,31 @@
+*{
+    padding: 0;
+    margin: 0;
+  }
+  
+  h1{
+    background: #f53838;
+    color: white;
+    text-align: center;
+  }
+  
+  h1{
+    padding: 5px;
+  }
+  nav{
+    background: #686868;
+  }
+  ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+  }
+  a{
+    color: rgb(140, 255, 0);
+    text-decoration: none;
+  }
+  li{
+    padding: 10px;
+    list-style: none;
+  }
+  

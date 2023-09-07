@@ -1,0 +1,41 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+header{
+  background: #f9b4b4;
+
+}
+body{
+  min-height: 100vh;
+}
+h1{
+  /* color: white; */
+  text-align: center;
+}
+
+h1{
+  padding: 5px;
+}
+nav{
+  background: #686868;
+}
+ul{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+a{
+  color: rgb(140, 255, 0);
+  text-decoration: none;
+  font-size: 1.2em;
+}
+label{
+  color: rgb(140, 255, 0);
+
+}
+li{
+  padding: 10px;
+  list-style: none;
+}
