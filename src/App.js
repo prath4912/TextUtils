@@ -91,7 +91,7 @@ function App() {
     <Router>
       <Navbar title="Text Manager" s1={mstyle} f1={toggle} f2={toggle1} />
       <Alert a1={alert} />
-      <div className="cbd1">
+      <div className="">
       <Chatbot data = {data}/></div>
 
       <Switch>
